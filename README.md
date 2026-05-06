@@ -67,12 +67,6 @@ Open source RetroOS project focused on legacy x86, BIOS, DOS and pre-NT software
 - LinkedIn: [Alberto Lopez](https://www.linkedin.com/in/albertolopez97)
 - GitHub: [PeronSlayer](https://github.com/PeronSlayer)
 
-## GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PeronSlayer&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeronSlayer&layout=compact&theme=tokyonight&hide_border=true)
-
 ## Contact
 
-You can reach me through my website or LinkedIn profile.
+You can reach me through my website, LinkedIn profile or via email: support@alcybercloud.it . 
