@@ -1,4 +1,4 @@
-# Hi, I'm Alberto Lopez
+# Hi, I'm Alberto Lopez aka PeronSlayer
 
 Technical Support Engineer and freelance developer from Italy.
 
